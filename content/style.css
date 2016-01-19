@@ -1,3 +1,90 @@
 html {
+    background-image: url(shl.png);
+    
+}
 
+td {
+    color: #187165;
+    border-collapse:collapse;
+    border: 1px solid #187165;
+}
+
+.table1 {
+    padding: 2em;
+    margin: auto;
+    border: 1px solid #187165;
+    border-collapse: collapse;
+    width: 30%;
+    text-decoration: 
+}
+
+
+.outsideHeader{
+    width: 100%;
+    background-color:burlywood;
+    
+}
+
+.insideHeader{
+    width: 60%;
+    margin: auto;
+    padding: 2em;
+    font-size: 2em;
+    text-align:center;
+}
+
+.title{
+    text-decoration: none;
+    color:#187165;
+    font-family:"Alegreya Sans SC";
+    font-weight: 900;
+    font-size:2.35em;
+    line-height: 0;
+    
+}
+
+body{
+    margin: 0;
+    padding 0;
+}
+
+.subtitle{
+        font-family:"Alegreya Sans SC";
+        font-weight: 400;
+        font-size: 1em;
+        color: #7C8583;
+}
+.hyperlinks{
+    text-decoration: none;
+    color:#187165;
+}
+
+.image{
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.bodyParagraph{
+    font-family: "Alegreya Sans SC";
+    weight: 100;
+    
+}
+
+.table2{
+    padding:0;
+    border:none;
+    table-layout: fixed;
+}
+
+.newtd {
+    border: none;
+    width: 33%;
+    text-align:center;
+}
+
+.newHeader{
+    font-family: "Alegreya Sans SC";
+    weight: 400;
+    
 }
